@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("Hi There!");
 		
 		System.out.println("From GitHub himself!");
+		
+		System.out.println("Hi GitHub");
 	}
 
 }
